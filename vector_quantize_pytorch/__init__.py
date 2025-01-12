@@ -11,3 +11,4 @@ from vector_quantize_pytorch.sim_vq import SimVQ
 from vector_quantize_pytorch.residual_sim_vq import ResidualSimVQ
 
 from vector_quantize_pytorch.utils import Sequential
+print("Hello world to vector_quantize_pytorch package ...\n")
